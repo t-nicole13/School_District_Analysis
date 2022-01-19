@@ -42,7 +42,7 @@ After reviewing the students_completed.csv file, the school board found evidence
    - Bottom 5 Schools
    ![Bottom Five New](https://user-images.githubusercontent.com/33010018/150061752-16c9c534-f2a7-4f8e-a6dd-2f592bfd2acb.png)
 
-- Thomas Highschool remained in the top 5 performing schools.  There was a slight overall percentage decrease with the new results.
+- Thomas High School remained in the top 5 performing schools.  There was a slight overall percentage decrease with the new results.
 - The schools with less than 2000 students continued to have a better performance overall.
 - Budget isn't a factor, schools with very high budgets are still in the bottom 5.
 - Charter schools remained the top performers.
@@ -56,4 +56,8 @@ After reviewing the students_completed.csv file, the school board found evidence
     
     
 - New Analysis (Removal of Thomas Highschool's 9th grades scores)
-- 
+- Thomas High School:
+    - The overall percentage slightly decreased.
+    - Average math and reading scores slightly decreased. 
+    - Math percentage slightly decreased.
+    - Reading percentage decreased
